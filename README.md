@@ -4,6 +4,10 @@ This repository contains all the necessary files to simulate an inverted pendulu
 - The project was tested in Webots R2025a
 - For the complete work, visit: [Modeling, Simulation, Design and Comparative Analysis of the PID and LQR Controllers for an Inverted Pendulum](https://ieeexplore.ieee.org/document/10833454)
 
+<p align="center">
+  <img src="worlds/.my_inverted_pendulum.jpg" alt="Inverted Pendulum">
+</p>
+
 Cite this work using the following BibTeX entry:
 ```tex
 @INPROCEEDINGS{chirmedav2024,
